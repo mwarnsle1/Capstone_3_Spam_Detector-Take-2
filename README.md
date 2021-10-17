@@ -56,8 +56,10 @@ However, after the features were applied to the TD-IDF + KMeans cluster model, b
 
 Following up on this logic was a WordCloud created alongside a word frequency list generator, which could also be used for Blacklisting. A predictive model was then able to be created using natural language processing(NLP) techniques. Using word embedding, scatter plotting was used to visualize dots annotated with the words from the text. These visualized the proximity Spam-like comments had to each other compared to non-Spam comments. From the second NLP model, a predictive model was created using word vectorization; where each categorization was used to detect and filter Spam content. A confusion matrix was created to easily compare and display, showing that:
 
+```
 [[67  4]
  [ 2 99]]
+ ```
  
 - Actually/predicted to be Ham: 99
 - Actually/predicted to be Spam: 67
