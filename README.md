@@ -1,5 +1,5 @@
 # Project 3 Spam Content Filter - Identifying Unwanted Comments for Company Security
-A model that identifies and filters spam content in online forums
+A model that identifies and filters spam content in online forums  
 
 # Overview
 
